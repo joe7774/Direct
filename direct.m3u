@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1,CANAL N
+http://161.132.108.34:20000/play/a00m/index.m3u8
+#EXTINF:-1,CINECANAL
+http://161.132.108.34:20000/play/a00k/index.m3u8
+#EXTINF:-1,CINEMAX
+http://161.132.108.34:20000/play/a00l/index.m3u8
+#EXTINF:-1,CUBAVISION
+http://161.132.108.34:20000/play/a00n/index.m3u8
+#EXTINF:-1,CUBAVISION INT
+http://161.132.108.34:20000/play/a00o/index.m3u8
+#EXTINF:-1,DIRECTV
+http://161.132.108.34:20000/play/a00f/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://161.132.108.34:20000/play/a00r/index.m3u8
+#EXTINF:-1,DISNEY JR
+http://161.132.108.34:20000/play/a00t/index.m3u8
+#EXTINF:-1,DISNEY 😆
+http://161.132.108.34:20000/play/a00s/index.m3u8
+#EXTINF:-1,ESP-A3INTERNACIONALHD
+http://161.132.108.34:20000/play/a002/index.m3u8
+#EXTINF:-1,ESP-A3SERIESHD
+http://161.132.108.34:20000/play/a00c/index.m3u8
+#EXTINF:-1,ESP-HOLATVHD
+http://161.132.108.34:20000/play/a00e/index.m3u8
+#EXTINF:-1,GOLPERU
+http://161.132.108.34:20000/play/a00g/index.m3u8
+#EXTINF:-1,HISTORY
+http://161.132.108.34:20000/play/a00u/index.m3u8
+#EXTINF:-1,LAT-CNNCHILE
+http://161.132.108.34:20000/play/a001/index.m3u8
+#EXTINF:-1,LAT-CNNLATINO
+http://161.132.108.34:20000/play/a003/index.m3u8
+#EXTINF:-1,LAT-DWHD
+http://161.132.108.34:20000/play/a00d/index.m3u8
+#EXTINF:-1,LAT-ESPN1
+http://161.132.108.34:20000/play/a009/index.m3u8
+#EXTINF:-1,LAT-ESPN2
+http://161.132.108.34:20000/play/a00a/index.m3u8
+#EXTINF:-1,LAT-ESPN3
+http://161.132.108.34:20000/play/a00b/index.m3u8
+#EXTINF:-1,LAT-FOXSPORTS1
+http://161.132.108.34:20000/play/a006/index.m3u8
+#EXTINF:-1,LAT-FOXSPORTS2
+http://161.132.108.34:20000/play/a007/index.m3u8
+#EXTINF:-1,LAT-FOXSPORTS3
+http://161.132.108.34:20000/play/a008/index.m3u8
+#EXTINF:-1,MTV
+http://161.132.108.34:20000/play/a00v/index.m3u8
+#EXTINF:-1,MULTIVISION
+http://161.132.108.34:20000/play/a00x/index.m3u8
+#EXTINF:-1,NATGEO KIDS
+http://161.132.108.34:20000/play/a00w/index.m3u8
+#EXTINF:-1,STAR
+http://161.132.108.34:20000/play/a00j/index.m3u8
+#EXTINF:-1,STAR SERIES
+http://161.132.108.34:20000/play/a00q/index.m3u8
+#EXTINF:-1,TELEREBELDE
+http://161.132.108.34:20000/play/a00p/index.m3u8
+#EXTINF:-1,TNT
+http://161.132.108.34:20000/play/a00i/index.m3u8
+#EXTINF:-1,WARNER
+http://161.132.108.34:20000/play/a00h/index.m3u8
+
